@@ -4,7 +4,9 @@ from aiogram.types import Message, ChatPermissions
 from aiogram.enums import ParseMode
 from aiogram.client.default import DefaultBotProperties
 
-#Я ПИДОРАС
+#1
+#2
+#3
 
 bot = Bot(token="7151855743:AAFWpJDdnotf6gWtLtKkMHrSD57hQvrKShA", default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
