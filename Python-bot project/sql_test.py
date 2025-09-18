@@ -8,6 +8,7 @@ import sqlite3
 bot = Bot(token="7151855743:AAFWpJDdnotf6gWtLtKkMHrSD57hQvrKShA", default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
 
+#aa
 
 
 # async def get_user_info(message: Message):

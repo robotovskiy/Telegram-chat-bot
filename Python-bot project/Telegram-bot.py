@@ -6,7 +6,7 @@ from aiogram.client.default import DefaultBotProperties
 
 #1
 #2
-#3
+#3qwerty
 
 bot = Bot(token="7151855743:AAFWpJDdnotf6gWtLtKkMHrSD57hQvrKShA", default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
